@@ -1,0 +1,28 @@
+.item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  .name {
+    font-weight: bold;
+  }
+  
+  .button {
+    padding: 5px 10px;
+    font-size: 14px;
+    color: white;
+    background-color: #af3348; 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #ee1b3e; /* Ciemniejszy odcień czerwonego */
+  }

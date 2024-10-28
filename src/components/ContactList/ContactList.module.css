@@ -1,0 +1,13 @@
+.contactList {
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+  }
+  
+  .contactList li {
+    margin: 10px 0; 
+    color: rgb(27, 52, 85);
+    font-size: 16px;
+    font-weight: normal;
+  }
+  

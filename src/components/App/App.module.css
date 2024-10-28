@@ -1,0 +1,23 @@
+.appContainer {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: #010101;
+    padding: 20px;
+    
+  }
+  
+  h1 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: rgb(27, 52, 85);
+  }
+  
+  h2 {
+    margin: 50px 0 10px 0;
+    color: rgb(27, 52, 85);
+  }
+  
