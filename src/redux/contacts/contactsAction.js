@@ -1,4 +1,3 @@
-// src/redux/contactsActions.js
 import { createAction } from '@reduxjs/toolkit';
 
 // Definicje akcji
